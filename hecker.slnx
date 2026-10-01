@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="hecker/hecker.vcxproj" Id="beabb425-db9e-469c-b495-b0f288c4c921" />
+</Solution>
